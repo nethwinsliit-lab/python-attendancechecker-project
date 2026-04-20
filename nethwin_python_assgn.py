@@ -21,6 +21,11 @@ print()
 print("student name:",name)
 print("attendance percentage:",percentage)
 
+print()
+print("student name:",name)
+print("course:",course)
+print("attendance percentage:",percentage)
+
 if percentage>=75:
  print("allowed for exam")
 else:
